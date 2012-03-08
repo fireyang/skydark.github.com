@@ -68,4 +68,138 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+
+/*
+#article_indent>p {
+	text-indent: 2em;
+}
+#article_indent>p:first-letter {
+	font-size: 2em;
+	float: left;
+	line-height: 1.5em;
+	padding: 0 0.15em 0 0;
+	margin:  0.05em 0 -0.15em 0;
+}
+#article_indent p {
+	line-height: 1.4;
+}
+*/
+
+#article_indent,#article_indent p {
+	font-size: 16px;
+	line-height: 1.4;
+	_margin-left: 20px;
+	_width: 680px;
+}
+.article_published {
+	margin: 0 0 18px 10px;
+	font-size: 0.8em;
+	color: #888;
+}
+.article_gplus {
+	height: 1.2em;
+	width: 24px;
+	overflow: hidden;
+	float: right;
+	margin: 0 10px 0 10px;
+}
+
+#index_titleline {
+	margin-left: 25px;
+}
+#index_line {
+	border-bottom: 3px solid #EBEDED;
+	margin: 5px 0 10px 20px;
+}
+ul.index_posts {
+	list-style-type: none;
+}
+ul.index_posts>li {
+	border-bottom: 2px solid #EBEDED;
+	overflow: hidden;
+}
+.index_intro {
+	margin: 10px auto;
+	overflow: hidden;
+	float: left;
+}
+.index_title,.index_date {
+	font-weight: bold;
+}
+.index_date {
+	margin: 10px 0;
+	float: right;
+}
+.index_excerpt {
+	float: left;
+	margin: 5px 10px 0;
+}
+#aside {
+	padding: 19px 0;
+	margin-top: -56px;
+	width: 250px;
+	float: right;
+	overflow: hidden;
+}
+#aside li {
+	overflow: hidden;
+}
+li.index_tags {
+	float: left;
+	display: block;
+	overflow: hidden;
+	line-height: 1.2em;
+}
+li.index_tags>a {
+	margin: 0 2px;
+	padding: 3px 3px;
+}
+
+li.gplus_status,div.socialstatistics-widget {
+	height: 141px;
+}
+div.socialstatistics-widget iframe {
+	height: 141px !important;
+}
+li.gplus_status {
+	margin: 5px -12px;
+}
+
+.logo {
+	/*margin: -10px 0 15px;*/
+	margin: -10px auto 10px;
+	width: 860px;
+	height: 120px;
+}
+
+.clear {
+	clear: both;
+}
+.hidden {
+	display: none;
+}
+
+#recentcomments {
+	margin: -15px 0;
+}
+p.dsq-widget-meta {
+	font-size: 0.8em;
+	line-height: 1.2em;
+}
+.dsq-widget-title {
+	margin-top: 9px;
+}
+
+ul.nav-list>li>a>span {
+	font-size: 0.8em;
+	color: #888;
+}
+
+#encrypted {
+	display: none;
+}
+
+#github_repos li {
+	margin-left: -15px;
+}
