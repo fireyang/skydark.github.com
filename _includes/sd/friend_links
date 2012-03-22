@@ -1,0 +1,6 @@
+{% if page.links %}
+  <li class="nav-header">友情链接</li>
+  {% for link in page.links %}
+	<li><a href="{{ link.url }}" rel="friend" target="_blank">{{ link.name }}</a></li>
+  {% endfor %}
+{% endif %}
