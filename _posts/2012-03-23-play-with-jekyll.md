@@ -7,6 +7,11 @@ tags: [ruby, git, programming]
 ---
 {% include JB/setup %}
 
+* work
+{: toc}
+
+---
+
 ## 动机
 
 [原先的blog](http://appblog.skydark.info)是使用[micolog](http://micolog.xuming.net)搭建在 GAE 上的。
@@ -146,22 +151,11 @@ links:
     name: "暗夜北辰"
 {% endhighlight %}
 
-就可以用
-
-{% highlight html %}{% raw %}
-{% if page.links %}
-  <li class="nav-header">友情链接</li>
-  {% for link in page.links %}
-    <li><a href="{{ link.url }}" rel="friend" target="_blank">{{ link.name }}</a></li>
-  {% endfor %}
-{% endif %}
-{% endraw %}{% endhighlight %}
-
-来遍历生成了。
+就可以遍历生成了。
 
 ### github 仓库
 
-显示 github 仓库状态的 js 文件 fork 自[这里](https://github.com/dementrock/dementrock.github.com/blob/master/javascripts/github.js)。
+显示 github 仓库状态的 javascript 文件 fork 自[这里](https://github.com/dementrock/dementrock.github.com/blob/master/javascripts/github.js)。
 稍作修改，改为使用v3的API.
 
 ### 加密
@@ -208,7 +202,7 @@ irb 和 ipython 真的不在一个档次上……
 它的核心其实在 javascript 部分。
 用于生成页面的 base.html 其实也是个模板文件，格式和 liquid 很像，所以移植从思路上没大有难度。
 
-结果最纠结的地方还是在 liquid 的表现力上，反复的用 {%raw%}`{% capture %}`{%endraw%}……
+结果最纠结的地方还是在 liquid 的表现力上，反复的用 capture ……
 可能是因为之前用过的 web 框架是 Karrigell 和 bottle，
 感觉写法被受限的这么严重的感觉好微妙(Karrigell 支持的模板方式略多……)，
 有点让我想起以前用 ONS 写 Fate 的时候……
