@@ -121,30 +121,25 @@ task :cenc do
 	  return Base64.encode64(random_string(8)+salt+s)
   end
   
-  count = 0
   writer = ''#STDOUT#open(destname, 'w')
-  password = ''
-  title = ''
-  infile = open(filename)
+
+  content = open(filename).read()
+  data = {}
+  if content =~ /^(---\s*\n.*?\n?)^(---\s*$\n?)/m
+    data = YAML.load($1)
+    writer << $1 << "\n---\n"
+  end
+
   require 'jekyll'
   options = Jekyll.configuration({})
   site = Jekyll::Site.new(options)
-  markdown = site.config['markdown']
-  while line = infile.gets do
-	  if line.chomp == '---' then count += 1 end
-	  if line[0...9] == 'password:' then password = line.split(':')[1].strip end
-	  if line[0...6] == 'title:' then title = line.split(':')[1].strip end
-	  if line[0...9] == 'markdown:' then markdown = line.split(':')[1].strip end
-	  writer << line
-	  break if count >= 2
-  end
-  if title[0] == '"' && title[-1] == '"' then title = title[1...-1] end
   
   site.read_posts('')
   site.posts.each do |post|
     post_data = post.to_liquid
-    if post_data['title'] == title then
+    if post_data['title'] == data['title'] then
       html = ''
+	  markdown = post_data['markdown'] || site.config['markdown']
 	  if markdown == 'rdiscount' then
 		require 'rdiscount'
         html << <<-HTML
@@ -160,6 +155,7 @@ task :cenc do
           #{Maruku.new(post_data['content']).to_html}
         HTML
 	  end
+	  password = post_data['password']
       writer << encrypt(html, pass=password)
       open(destname, 'w')<<writer
       break
