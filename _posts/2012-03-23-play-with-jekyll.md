@@ -7,11 +7,6 @@ tags: [ruby, git, programming]
 ---
 {% include JB/setup %}
 
-* work
-{: toc}
-
----
-
 ## 动机
 
 [原先的blog](http://appblog.skydark.info)是使用[micolog](http://micolog.xuming.net)搭建在 GAE 上的。
@@ -133,6 +128,36 @@ kramdown 支持的 markdown 语法可以在其网站上[找到](http://kramdown.
 
 主页的分页可以查 jekyll 的 paginate 支持。
 主页和侧栏的编排一看源码便知，也没有花太多精力，因此不再赘述。
+
+### 友情链接
+
+一开始不清楚 yaml 的表示方法，
+然后忘记了 jekyll 只是一个模板语言，因此*就算看起来再怎么像 ruby，也没有 ruby 的完整功能*。
+因此用 ruby 的语法各种试各种报错，最初版本里循环也写的超难看。
+后来用 yaml 在 page 的开头表示成：
+
+{% highlight yaml %}
+links:
+  - url: "https://plus.google.com/117704226616638577311"
+    name: "My Google Plus"
+  - url: "http://icemaple.info"
+    name: "远凌风"
+  - url: "http://ori0n.co.de"
+    name: "暗夜北辰"
+{% endhighlight %}
+
+就可以用
+
+{% highlight html %}{% raw %}
+{% if page.links %}
+  <li class="nav-header">友情链接</li>
+  {% for link in page.links %}
+    <li><a href="{{ link.url }}" rel="friend" target="_blank">{{ link.name }}</a></li>
+  {% endfor %}
+{% endif %}
+{% endraw %}{% endhighlight %}
+
+来遍历生成了。
 
 ### github 仓库
 
