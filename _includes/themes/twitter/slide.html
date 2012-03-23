@@ -154,26 +154,7 @@
 <script type="text/javascript" src="/js/slides.js"></script>
 <script>main()</script>
 {% if page.mathjax %}
-	<script type="text/x-mathjax-config">
-		MathJax.Hub.Config({
-		  /*showProcessingMessages: false,*/
-		  jax: ["input/TeX", "output/HTML-CSS"],
-		  TeX: {
-			TagSide: "left",
-			Macros: {
-			  /*RR: '{\\bf R}',
-			  bold: ['{\\bf #1}',1]*/
-			  sdash: '{|\\!\\!\\!\\sim}'
-			}
-		  }/*,    tex2jax: {
-			  inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-			  processEscapes: true
-			}*/
-		});
-	</script>
-	<script type="text/javascript"
-			src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-	</script>
+  {% include sd/math %}
 {% endif %}
 <script type="text/javascript" src="/js/jquery.boxy.js"></script>
 <link href="/css/boxy.css" rel="stylesheet" type="text/css" media="all">

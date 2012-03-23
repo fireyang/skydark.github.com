@@ -203,3 +203,7 @@ ul.nav-list>li>a>span {
 #github_repos li {
 	margin-left: -15px;
 }
+em{
+  color:red;
+  font-style:normal;
+}
