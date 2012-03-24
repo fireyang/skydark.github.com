@@ -5,6 +5,19 @@ html, body {
 .navbar {
   margin-bottom: 0;
 }
+.navbar .nav li { /* IE6 hack */
+	float: left;
+	display: inline;
+}
+.navbar .nav li a { /* IE6 hack */
+	_color: #999999;
+    _float: none;
+    _line-height: 19px;
+    _padding: 10px 10px 11px;
+    _text-decoration: none;
+    _text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	_display: block;
+}
 .container > footer {
   margin-top: 20px;
 }
@@ -12,11 +25,16 @@ html, body {
   text-align: center; /* center align it with the container */
 }
 
+.row {
+  _margin-left: 0;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  _margin: 0;
   -webkit-border-radius: 0 0 6px 6px;
      -moz-border-radius: 0 0 6px 6px;
           border-radius: 0 0 6px 6px;
@@ -168,6 +186,8 @@ li.gplus_status {
 
 .logo {
 	/*margin: -10px 0 15px;*/
+	overflow: hidden;
+    background-image: url("/images/logo.jpg");
 	margin: -10px auto 10px;
 	width: 860px;
 	height: 120px;
