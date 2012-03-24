@@ -50,9 +50,9 @@ git 是一个*版本控制软件*，作用是记录你对一个项目的所有*�
 ### github
 
 有关[github](http://github.com)，
-阳志平先生的[这篇博文](http://www.yangzhiping.com/tech/github.html#q4)让我觉得已经不必介绍的更多了。
+阳志平先生的[这篇博文](http://www.yangzhiping.com/tech/github.html)让我觉得已经不必介绍的更多了。
 
-关于 github 的影响力，简单地看看这篇文章里多少软件的链接出自 github 就知道了，其中有些还是有 github 但我贴了其他地址的。
+关于 github 的影响力，简单地看看本文里多少软件的链接出自 github 就知道了，其中有些还是有 github 但我贴了其他地址的。
 
 关于 github 的配置如果还有不明白的地方，看它官网的 help 足矣。
 
@@ -215,7 +215,7 @@ irb 和 ipython 真的不在一个档次上……
 
 ### 有关 git
 
-想学习一个东西，就应该[进入学习区学习它](http://www.yangzhiping.com/tech/writing-space.html)。
+想学习一个东西，就应该[进入学习区学习它](http://www.yangzhiping.com/tech/learn-program-psychology.html)。
 
 前两天系里发来通知，说是可以申请系里的主页空间。因此当时就想可以用同一份仓库来做这个事情。
 
