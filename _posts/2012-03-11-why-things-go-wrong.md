@@ -625,7 +625,9 @@ Latest:
 
 -----
 
-<div class="label label-warning">尚未完成，可能因为心情问题再也不会完成。</div>
+<div class="label label-warning">
+尚未完成，可能因为心情问题再也不会完成。
+</div>
 
 -----
 
