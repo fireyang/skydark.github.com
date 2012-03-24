@@ -211,3 +211,4 @@ a.external {
   background: url("/images/icons.gif") no-repeat scroll right 1px transparent;
   padding-right: 13px;
 }
+a.external:hover {background-position:right -14px;}
