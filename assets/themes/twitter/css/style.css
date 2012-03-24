@@ -27,6 +27,7 @@ html, body {
 
 .row {
   _margin-left: 0;
+  _width: 940px;
 }
 
 /* The white background content wrapper */
@@ -104,11 +105,13 @@ html, body {
 }
 */
 
+#article_indent {
+	overflow: hidden;
+}
 #article_indent,#article_indent p {
 	font-size: 16px;
 	line-height: 1.4;
 	_margin-left: 20px;
-	_width: 680px;
 }
 .article_published {
 	margin: 0 0 18px 10px;
@@ -199,6 +202,8 @@ li.gplus_status {
 .hidden {
 	display: none;
 }
+.pull-right{float:right;display:inline;}
+.pull-left{float:left;display:inline;}
 
 #recentcomments {
 	margin: -15px 0;
