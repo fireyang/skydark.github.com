@@ -12,12 +12,12 @@ tags: [贵圈真乱]
 <div>
 警告: 这篇文章仍然在补充材料中。
 </div>
-{: .label .label-warning}
+{: .alert .alert-warning}
 
 <div>
 欢迎指正。
 </div>
-{: .label .label-info}
+{: .alert .alert-info}
 
 ## 事件提要
 
@@ -498,10 +498,10 @@ H一直以来并不重视对外强调ACGF的计划核心在原创上，反而强
 
 5. 
 
-    <div class="js-toggle-next label">
+    <div>
 H是否真的是不打算以移植盈利？
     </div>
-    {:.js-toggle-next .label}
+    {:.js-toggle-next .alert .alert-danger}
 
     <div markdown="1">
     我们可以注意到，一些移植者已经开始特意在发布页面上注明不得以各种方式盈利了。<span class="label label-important">这部分请参考H的留言中的第9条</span>
@@ -519,6 +519,7 @@ H是否真的是不打算以移植盈利？
 	> 
     > 你对这个比较有意见？我一直觉得，ACGF应该多思考与国内制作者合作及打好关系(汉化事件处理的很糟，in my opinion)，而不是抱着那些老的版权问题难以解决的东西复刻下去。赢利点应该在更踏实的基础上，在成熟之后考虑。
     </div>
+	{: .alert .alert-success}
 
 所以事实上，ACGF计划执行的很缓慢(尽管按H的说法这在预期之中)。
 
@@ -603,9 +604,10 @@ Latest:
 > 2011-5-28 21:12:51 某H  
 > 研究经费：是指GAL开发团队支付给本次专项移植所需要的费用
 
-<div class="js-toggle-next label">
+<div>
 我的态度
 </div>
+{: .js-toggle-next .alert .alert-info}
 
 > 2011-5-28 21:19:09 Skydark  
 > （其实我个人倾向于当PC版游戏已经下市后，发布移植版为原制作组推广旧作，比如鸑鷟现在已经买不到了的这种）
@@ -618,6 +620,7 @@ Latest:
 > 
 > 2011-5-28 22:18:31 Skydark  
 > （我只对技术有兴趣，而且局限在兴趣上，毕竟我本行和图形界面其实是没啥关系的，所以其他部分我不想考虑，毕竟我们有补助，比起资金时间才是更敏感的，现在还没空玩雪之本境，我至少要过一遍确定是不是个好游戏，尽管就目前解开的样子来看比较有信心）
+{:.alert .alert-success}
 
 -----
 
@@ -629,9 +632,10 @@ Latest:
 
 -----
 
-<div class="label label-warning">
+<div>
 尚未完成，可能因为心情问题再也不会完成。
 </div>
+{:.alert .alert-warning}
 
 -----
 
