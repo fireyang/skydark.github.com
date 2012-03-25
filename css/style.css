@@ -190,7 +190,7 @@ li.gplus_status {
 .logo {
 	/*margin: -10px 0 15px;*/
 	overflow: hidden;
-    background-image: url("/images/logo.jpg");
+    background-image: url("../images/logo.jpg");
 	margin: -10px auto 10px;
 	width: 860px;
 	height: 120px;
@@ -233,7 +233,7 @@ em{
   font-style:normal;
 }
 a.external {
-  background: url("/images/icons.gif") no-repeat scroll right 1px transparent;
+  background: url("../images/icons.gif") no-repeat scroll right 1px transparent;
   padding-right: 13px;
 }
 a.external:hover {background-position:right -14px;}

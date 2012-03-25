@@ -13,14 +13,14 @@
 
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="/css/syntax.css" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ BASE_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+	<link href="{{ BASE_PATH }}/css/syntax.css" rel="stylesheet" type="text/css" media="all">
 
     <link rel="alternate" type="application/atom+xml" href="atom.xml" title="Atom feed">
-	<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript" src="{{ BASE_PATH }}/js/jquery.js"></script>
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="/images/favicon.ico">
+<link rel="shortcut icon" href="{{BASE_PATH}}/images/favicon.ico">
   <!-- Update these with your own images
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
@@ -45,7 +45,7 @@
           </ul>
           <ul class="nav subscription pull-right" data-subscription="rss">
             <li>
-              <a href="/atom.xml" rel="nofollow" title="subscribe via RSS">RSS</a>
+				<a href="{{BASE_PATH}}/atom.xml" rel="nofollow" title="subscribe via RSS">RSS</a>
             </li>
           </ul>
           <form class="navbar-search pull-right" method="get" action="http://www.google.com/search" target="google_window">
@@ -78,6 +78,6 @@
     </div> <!-- /container -->
 
     {% include JB/analytics %}
-	<script type="text/javascript" src="/js/sd.js"></script>
+	<script type="text/javascript" src="{{BASE_PATH}}/js/sd.js"></script>
   </body>
 </html>
