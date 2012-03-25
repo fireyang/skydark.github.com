@@ -8,7 +8,13 @@ tags: [ruby, git, programming]
 {% include JB/setup %}
 
 * work
-{: toc}
+{: toc .nav .nav-list}
+
+<script type="text/javascript">
+$('#markdown-toc').children('li')
+  .children('a').css('font-weight', 'bold').end()
+  .children('ul').addClass('nav nav-pills');
+</script>
 
 ---
 
