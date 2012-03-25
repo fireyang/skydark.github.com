@@ -610,10 +610,10 @@ li{
   border-style:solid;
 }
 .title-page {
-  background:#dee0e0 url(../../images/title-bg.jpg) repeat-x !important;
+  background:#dee0e0 url(../images/title-bg.jpg) repeat-x !important;
 }
 .ending-page {
-  background:#dee0e0 url(../../images/ending-bg.jpg) repeat-x !important;
+  background:#dee0e0 url(../images/ending-bg.jpg) repeat-x !important;
 }
 .title-page h1,.ending-page h1 {
   color: #1f5f9f !important;
