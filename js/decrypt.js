@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	var decrypt = function() { 
 		var password = $('#password').val();
-		var crypted = $('#encrypted').text().replace(/ /g, '').trim();
+		var crypted = $('#encrypted').text().replace(/\s/g, '');
 		try {
 			var plain = GibberishAES.dec(crypted, password);
 		} catch(e){
