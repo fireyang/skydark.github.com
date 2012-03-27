@@ -9,7 +9,7 @@ $('.slide-wrapper>.slide').each(function(){
 	inner.children('section').children().first().filter('h1,h2,h3,h4')
 	  .wrap('<header></header>').parent().insertBefore(inner);
 	var title = $(this).children('header').text();
-	var class_ = $(this).children('header').children().is('h3,h4')?' class="sub" ':'';
+	var class_ = $(this).children('header').children().is('h2,h3,h4')?' class="sub" ':'';
 	$(this).children('footer').find('.slide_num').text(number);
 	number += 1;
 	if (title) {
