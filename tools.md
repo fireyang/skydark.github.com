@@ -72,11 +72,9 @@ group: navigation
 </div>
 
 <script type="text/javascript">
-$(document).ready(function(){
   $("#tabs>li>a").attr('data-toggle', 'tab');
   $('.tab-content>div').addClass('tab-pane');
   $("#tabs a:first").tab('show');
   $(".tab-content a").attr('target', '_blank').tooltip();
-});
 </script>
 
