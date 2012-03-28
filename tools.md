@@ -9,6 +9,7 @@ group: navigation
 * [前端](#tab_frontend)
 * [程序](#tab_program)
 * [移植](#tab_port)
+* [书.教程](#tab_read)
 
 {: .tab-content}
 <div markdown="1">
@@ -16,9 +17,13 @@ group: navigation
 {:#tab_frontend}
 <div markdown="1">
 * [JsFiddle](http://jsfiddle.net)
+
 * [Browser Shots](http://browsershots.org/)
+
 * [Be the bot](http://www.avivadirectory.com/bethebot/)
+
 * [Jash](javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://www.billyreisinger.com/jash/source/latest/Jash.js';})(); "终端js调试器")
+
 * [W3School](http://www.w3school.com.cn)
   {: .js-toggle-next .dropdown .show}
 
@@ -27,6 +32,8 @@ group: navigation
   * [php](http://www.w3school.com.cn/php/php_ref_string.asp)
   * [SQL](http://www.w3school.com.cn/sql/sql_quickref.asp)
   * [css](http://www.w3school.com.cn/css/css_classification.asp)
+
+* [HasLayout](http://haslayout.net/css/ "IE快来战个痛")
 </div>
 
 {:#tab_program}
@@ -67,6 +74,13 @@ group: navigation
 * [Haibara](https://haibara4cgrip.wordpress.com/)
 * [飞雪crass版](https://www.yukict.com/bbs/forumdisplay.php?fid=69)
 * [VNTools](http://vn.i-forge.net/tools/)
+</div>
+
+{:#tab_read}
+<div markdown="1">
+* [ProGit](http://progit.org/book/zh/)
+* [Kramdown Syntax](http://kramdown.rubyforge.org/syntax.html)
+* [Learn Code The Hard Way](http://learncodethehardway.org/)
 </div>
 
 </div>
