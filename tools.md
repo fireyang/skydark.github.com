@@ -75,6 +75,19 @@ group: navigation
 * [Kramdown Syntax](http://kramdown.rubyforge.org/syntax.html)
 * [Learn Code The Hard Way](http://learncodethehardway.org/)
 
+-----------------------
+
+## 学术
+
+* [Google Scholar](http://scholar.google.com)
+* [图书馆](http://www.lib.pku.edu.cn)
+* [Wikipedia](http://www.wikipedia.org/)
+* [万方](http://g.wanfangdata.com.cn/)
+* [SEP](http://plato.stanford.edu/)
+* [Pei Wang](http://www.cis.temple.edu/~wangp/)
+
+-----------------------
+
 </div>
 {: #tabcontent-wrapper}
 
