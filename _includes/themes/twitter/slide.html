@@ -48,9 +48,9 @@
     <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="{{BASE_PATH}}/images/favicon.ico">
     <!-- Javascripts -->
-	<script type="text/javascript" src="{{BASE_PATH}}/js/jquery.js"></script>
+    <script type="text/javascript" src="{{BASE_PATH}}/js/jquery.js"></script>
     <script type="text/javascript" src="{{BASE_PATH}}/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="{{BASE_PATH}}/js/jtimer.js"></script>
+    <script type="text/javascript" src="{{BASE_PATH}}/js/jtimer.js"></script>
 </head>
 <body>
   <div id="blank"></div>
@@ -59,34 +59,34 @@
       <div id="presenter_note"></div>
     </div>
     <div class="slides">
-	  {% assign page_spliter = '<hr />' %}
-	  {% capture slide_header %}
+      {% assign page_spliter = '<hr />' %}
+      {% capture slide_header %}
         <div class="slide-wrapper"><div class="slide"><div class="inner"><section>
-	  {% endcapture %}
-	  {% capture slide_footer %}
-	      </section>
+      {% endcapture %}
+      {% capture slide_footer %}
+          </section>
           </div>
           <div class="presenter_notes">
             <header><h1>Presenter Notes</h1></header>
-			<section><!-- TODO --></section>
+            <section><!-- TODO --></section>
           </div>
           <footer>
             <aside class="source">
               <div class="timer"></div>
             </aside>
-			<aside class="footer">{{page.footer|markdownify}}</aside>
+            <aside class="footer">{{page.footer|markdownify}}</aside>
             <aside class="page_number">
-			<span class="slide_num"></span>
+            <span class="slide_num"></span>
             </aside>
           </footer>
         </div>
         </div>
-	  {% endcapture %}
-	  {% capture slide_joiner %}{{slide_footer}}{{slide_header}}{% endcapture %}
-	  {% capture slides_content %}{{ slide_header }}{{content|replace:'<hr />',slide_joiner}}{{ slide_footer }}{% endcapture %}
-	  {% capture title_slide %}{{ slide_header}}<h1>{{page.title}}</h1>{{slide_footer}}{% endcapture %}
-	  {{ title_slide }}
-	  {{ slides_content }}
+      {% endcapture %}
+      {% capture slide_joiner %}{{slide_footer}}{{slide_header}}{% endcapture %}
+      {% capture slides_content %}{{ slide_header }}{{content|replace:'<hr />',slide_joiner}}{{ slide_footer }}{% endcapture %}
+      {% capture title_slide %}{{ slide_header}}<h1>{{page.title}}</h1>{{slide_footer}}{% endcapture %}
+      {{ title_slide }}
+      {{ slides_content }}
     </div>
   </div>
   <div id="toc" class="sidebar hidden">
