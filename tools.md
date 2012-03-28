@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tools"
+title: "工具"
 group: navigation
 ---
 {% include JB/setup %}
