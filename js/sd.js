@@ -1,6 +1,6 @@
-$(document).ready(function(){
+//$(document).ready(function(){
 	$('.js-toggle-next').click(function(){
-		$(this).next().toggle();
+		$(this).next().slideToggle('normal');
 	}) ;
 	$('.js-toggle-next').filter('.dropdown').append($('<b class="caret"></b>'));
 	$('.js-toggle-next').not('.show').next().hide();
@@ -14,4 +14,4 @@ $(document).ready(function(){
 		}
 		}
 	});
-});
+//});
