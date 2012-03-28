@@ -26,9 +26,8 @@ tags: [贵圈真乱]
 
 ## 事件提要
 
-这篇文章介绍的是 <span>前段时间</span>{: .js-toggle-next .label}
-<span>(以本文最初写成的时间来看，是“当时”)</span>{: .label .label-info}
-某移植组与汉化组之间的争执事件的一些附加材料。
+这篇文章介绍的是 <a rel="tooltip" title="以本文最初写成的时间来看，是“当时”">前段时间</a>{: .label}
+某移植组与汉化组(们)之间的争执事件。
 
 下面会用H来指代huoyanyan, A组指代H的Android Galgame移植组和[ACGF组](http://bbs.acgcloud.com)，
 C组指代[冥月汉化组](http://bbs.dmacgn.com/)和[下限消除论坛](http://bbs.xxxc.at)。
