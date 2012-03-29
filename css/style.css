@@ -61,7 +61,7 @@ html, body {
 .tag_box {
 	list-style:none;
 	margin:0;
-	padding:5px 0 ;
+	/*padding:5px 0 ;*/
 	overflow:hidden;
 }
 .tag_box li {
@@ -71,9 +71,10 @@ html, body {
 	float:left;
 }
 .tag_box a {
+	/*background: #eee;
 	padding: 3px 6px;
-	margin: 2px;
-	background: #eee;
+	margin: 2px;*/
+	padding-top: 3px !important;
 	color:#005F6B;
 	border-radius: 3px;
 	text-decoration:none;
@@ -238,3 +239,19 @@ a.external {
 	padding-right: 13px;
 }
 a.external:hover {background-position:right -14px;}
+
+.tab-content {
+	margin: 4px 0px;
+}
+.tab-content ul {
+	list-style:none;
+}
+.tab-content .tab-pane ul.nav li span {
+	display: inline;
+	float: left;
+	width: 130px;
+}
+.tab-content .tab-pane ul.nav li a {
+	display: inline;
+}
+
