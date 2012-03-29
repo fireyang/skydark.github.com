@@ -3,16 +3,16 @@ var navtab = $('<ul class="nav nav-tabs" id="tabs"></ul>');
 var navcontainer = $('<div class="tab-content"></div>');
 $('#tabcontent-wrapper>h2').each(function(index){
   var tabid = 'tab-'+index;
+  $(this).clone().wrapInner('<a>').children().unwrap()
+      .attr('href', '#'+tabid)
+    .wrap('<li>').parent()
+    .appendTo(navtab).html();
   $(this).nextUntil('h2').last().filter('hr').remove();
-  $(this).nextUntil('h2')
+  $(this).nextUntil('h2').andSelf()
     .wrapAll('<div>')
     .parent()
     .attr('id', tabid)
     .appendTo(navcontainer).html();
-  $(this).wrapInner('<a>').children().unwrap()
-      .attr('href', '#'+tabid)
-    .wrap('<li>').parent()
-    .appendTo(navtab).html();
 });
 navcontainer.find('div>h3').addClass('js-toggle-next dropdown').filter(':not(.hide)').addClass('show').end().removeClass('hide');
 $('#tabcontent-wrapper').empty().append(navtab).append(navcontainer);
