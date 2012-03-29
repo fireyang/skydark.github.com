@@ -6,5 +6,10 @@ group: navigation
 ---
 {% include JB/setup %}
 
+<div id="tabcontent-wrapper">
 {% assign posts_collate = site.posts %}
 {% include JB/posts_collate %}
+</div>
+
+{% include sd/generate_tabs %}
+{% include sd/pretty_tabs %}
