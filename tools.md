@@ -20,7 +20,6 @@ group: navigation
 * [HasLayout](http://haslayout.net/css/ "IE快来战个痛")
 
 ### [W3School](http://www.w3school.com.cn)
-{: .show}
 
 * [js](http://www.w3school.com.cn/js/jsref_obj_string.asp)
 * [jQuery](http://www.w3school.com.cn/jquery/jquery_ref_manipulation.asp)
@@ -40,7 +39,6 @@ group: navigation
 ## 移植
 
 ### ONScripter
-{: .show}
 
 * [ONScripter](http://onscripter.sourceforge.jp/onscripter.html)
 * [ONScripter-Android](http://onscripter.sourceforge.jp/android/)
@@ -48,18 +46,21 @@ group: navigation
 * [ACGF-ONScripter](http://code.google.com/p/onscripter/)
 
 ### References
+{: .hide}
 
 * [Ref-JP](http://nscripter.insani.org/reference/)
 * [NScrAPI-JP](http://senzogawa.s90.xrea.com/reference/NScrAPI.html)
 * [NScrAPI-EN](http://unclemion.com/onscripter/api/NScrAPI.html)
 
 ### Japanese Works
+{: .hide}
 
 * [Haru PSP Game](http://harupspgame.blog64.fc2.com/)
 * [Haru Files](http://briefcase.yahoo.co.jp/bc/qmbqmbqm/lst?.dir=/)
 * [Savaiv](http://savaiv.blog81.fc2.com/)
 
 ### Tools
+{: .hide}
 
 * [TLWiki](http://tlwiki.org)
 * [Asmodean](http://asmodean.reverse.net/pages/tools_index.html)
@@ -91,26 +92,6 @@ group: navigation
 </div>
 {: #tabcontent-wrapper}
 
-<script type="text/javascript">
-var navtab = $('<ul class="nav nav-tabs" id="tabs"></ul>');
-var navcontainer = $('<div class="tab-content"></div>');
-$('#tabcontent-wrapper>h2').each(function(index){
-  var tabid = 'tab-'+index;
-  $(this).nextUntil('h2').last().filter('hr').remove();
-  $(this).nextUntil('h2')
-    .wrapAll('<div class="tab-pane"></div>')
-    .parent()
-    .attr('id', tabid)
-    .appendTo(navcontainer).html();
-  $(this).wrapInner('<a>').children().unwrap()
-      .attr('data-toggle', 'tab')
-      .attr('href', '#'+tabid)
-    .wrap('<li>').parent()
-    .appendTo(navtab).html();
-});
-navcontainer.find('.tab-pane>h3').addClass('js-toggle-next dropdown');
-$('#tabcontent-wrapper').empty().append(navtab).append(navcontainer);
-$("#tabs a:first").tab('show');
-$(".tab-content a").attr('target', '_blank').tooltip();
-</script>
+{% include sd/generate_tabs %}
+{% include sd/pretty_tabs %}
 
