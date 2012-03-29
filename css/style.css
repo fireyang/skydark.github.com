@@ -249,7 +249,8 @@ a.external:hover {background-position:right -14px;}
 .tab-content .tab-pane ul.nav li span {
 	display: inline;
 	float: left;
-	width: 130px;
+	width: 140px;
+	overflow: hidden;
 }
 .tab-content .tab-pane ul.nav li a {
 	display: inline;
