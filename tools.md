@@ -15,13 +15,18 @@ group: navigation
 
 * [Be the bot](http://www.avivadirectory.com/bethebot/)
 
-* [Jash](javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://www.billyreisinger.com/jash/source/latest/Jash.js';})(); "终端js调试器")
+* [Jash](javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://www.billyreisinger.com/jash/source/latest/Jash.js';})(); "js终端调试器")
 
 * [HasLayout](http://haslayout.net/css/ "IE快来战个痛")
 
+* [Lorem Ipsum](http://www.lipsum.com/)
+
+* [jQuery API](http://api.jquery.com/)
+
 ### [W3School](http://www.w3school.com.cn)
 
-* [js](http://www.w3school.com.cn/js/jsref_obj_string.asp)
+* [js](http://www.w3school.com.cn/js/)
+* [jsref](http://www.w3school.com.cn/js/jsref_obj_string.asp)
 * [jQuery](http://www.w3school.com.cn/jquery/jquery_ref_manipulation.asp)
 * [php](http://www.w3school.com.cn/php/php_ref_string.asp)
 * [SQL](http://www.w3school.com.cn/sql/sql_quickref.asp)
