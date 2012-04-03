@@ -71,13 +71,41 @@ group: navigation
 * [Asmodean](http://asmodean.reverse.net/pages/tools_index.html)
 * [Haibara](https://haibara4cgrip.wordpress.com/)
 * [飞雪crass版](https://www.yukict.com/bbs/forumdisplay.php?fid=69)
+* [AnimeED](http://wks.arai-kibou.ru/animed.php?p=compat)
 * [VNTools](http://vn.i-forge.net/tools/)
+
+-----------------------
+
+## 同人
+
+* [KCDDP](http://kcddp.keyfc.net/bbs/)
+* [CAC](http://www.doujingame.cn/)
+* [CAC BBS](http://bbs.doujingame.cn/forum.php)
+
+### 团体
+
+* [Youth Bloom](http://www.youth-bloom.cn/)
+* [YB 微博](http://weibo.com/youthbloom)
+* [sptime](http://blog.sina.com.cn/sptime)
+* [冰璃](http://blog.sina.com.cn/u/1451957597 "刻痕")
+* [蓝天使](http://angelsblue.cn/ "刻痕")
+* [星月夜](http://www.xyygame.net/)
+
+### HSP
+{: .hide}
+
+* [HSP](http://hsp.tv/)
+* [OpenHSP](http://dev.onionsoft.net/trac/)
+* [BasicHelp](http://lhsp.s206.xrea.com/index.en.html)
+* [OpenHSPNDS](http://peppermint.jp/products/hsp/)
+* [OpenHSPwiki](http://hspdev-wiki.net/?OpenHSP%2FLinux)
 
 -----------------------
 
 ## 书.教程
 
 * [ProGit](http://progit.org/book/zh/)
+* [Git Community Book](http://gitbook.liuhui998.com/index.html)
 * [Kramdown Syntax](http://kramdown.rubyforge.org/syntax.html)
 * [Learn Code The Hard Way](http://learncodethehardway.org/)
 
@@ -90,6 +118,9 @@ group: navigation
 * [Wikipedia](http://www.wikipedia.org/)
 * [万方](http://g.wanfangdata.com.cn/)
 * [SEP](http://plato.stanford.edu/)
+
+### Logic
+
 * [Pei Wang](http://www.cis.temple.edu/~wangp/)
 
 -----------------------
