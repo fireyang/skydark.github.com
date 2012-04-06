@@ -39,6 +39,8 @@ group: navigation
 * [Codepad](http://codepad.org)
 * [IDEOne](http://ideone.com)
 
+* [Lenna](http://www.cs.cmu.edu/~chuck/lennapg/)
+
 -----------------------
 
 ## 移植
@@ -81,6 +83,8 @@ group: navigation
 * [KCDDP](http://kcddp.keyfc.net/bbs/)
 * [CAC](http://www.doujingame.cn/)
 * [CAC BBS](http://bbs.doujingame.cn/forum.php)
+* [online galgame](http://onlinegalgame.com/)
+* [无双](http://gamediy.net)
 
 ### 团体
 
