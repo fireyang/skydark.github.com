@@ -57,3 +57,12 @@ Nitro 使用 pickle 将数据保存在`~/.nitrodata.pkl`, pickle 里存的是一
 消息传递需要经过 json 包装一次因此会产生一些问题也是这种做 GUI 的思路的一个麻烦的地方吧。
 总而言之我想我应该准备下一封邮件了……
 
+---
+
+OK, 作者已经更新了，对照了一下，在`data/media/src/js/cli.js`里头更新的:
+{% highlight javascript %}
+          escape: function(str) {
+            //Regexes a bunch of shit that breaks the Linux version
+{% endhighlight %}
+
+╭╮(╯▽╰)╭╮
