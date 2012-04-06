@@ -9,6 +9,8 @@ tags: [linux]
 
 最早是在 GR 里头看到的来自笨兔兔的[推荐](http://www.bentutu.com/2012/04/nitro-task-management-tool.html/)，当然它也来源自[ubuntuvibes](http://www.bentutu.com/2012/04/nitro-task-management-tool.html/).
 
+![Screenshot for nitrotasks]({{BASE_PATH}}/images/misc/nitrotasks.jpg)
+
 Ubuntu 用户只需要：
 
     sudo add-apt-repository ppa:cooperjona/nitrotasks && sudo apt-get update && sudo apt-get install nitrotasks
