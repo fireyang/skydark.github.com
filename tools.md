@@ -19,6 +19,8 @@ group: navigation
 
 * [HasLayout](http://haslayout.net/css/ "IE快来战个痛")
 
+* [IE6 Cheatsheet](http://www.virtuosimedia.com/dev/css/ultimate-ie6-cheatsheet-how-to-fix-25-internet-explorer-6-bugs "IE6 itself is a bug")
+
 * [Lorem Ipsum](http://www.lipsum.com/)
 
 * [jQuery API](http://api.jquery.com/)
@@ -122,6 +124,7 @@ group: navigation
 * [Wikipedia](http://www.wikipedia.org/)
 * [万方](http://g.wanfangdata.com.cn/)
 * [SEP](http://plato.stanford.edu/)
+* [数学工具](http://zh.numberempire.com/)
 
 ### Logic
 
