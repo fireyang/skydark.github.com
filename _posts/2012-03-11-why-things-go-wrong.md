@@ -29,7 +29,7 @@ tags: [贵圈真乱]
 这篇文章介绍的是 <a rel="tooltip" title="以本文最初写成的时间来看，是“当时”">前段时间</a>{: .label}
 某移植组与汉化组(们)之间的争执事件。
 
-下面会用H来指代huoyanyan, A组指代H的Android Galgame移植组和[ACGF组](http://bbs.acgcloud.com)，
+下面会用H来指代huoyanyan, A组指代H的Android Galgame移植组和[ACGF组](http://bbs.acgfuture.com)，
 C组指代[冥月汉化组](http://bbs.dmacgn.com/)和[下限消除论坛](http://bbs.xxxc.at)。
 
 需要强调的是，这里用A组和C组只是为了方便代表双方，
@@ -417,7 +417,7 @@ H本身对我很关切，像上面说的那样，H对内是很宽容的。
 事实上的确有偶然发现那里并要求密码的人，但是在我的记忆中，H是断然拒绝了的。
 <span class="label label-info">这里需要更多证据</span>
 
-在今年2月ACGFuture的一个帖子里，移植者zcdyz君(他应该正在高三)在[回复](http://bbs.acgcloud.com/forum.php?mod=viewthread&tid=21807&extra=page%3D3&page=5)中提到了他对这个事件，以及移植本身的看法:
+在今年2月ACGFuture的一个帖子里，移植者zcdyz君(他应该正在高三)在[回复](http://bbs.acgfuture.com/forum.php?mod=viewthread&tid=21807&extra=page%3D3&page=5)中提到了他对这个事件，以及移植本身的看法:
 
 > ……作为"死吻"的始作俑者(那是我在博客草率透露引起的。。。虽然我没有散发，但的确造成了不好的影响)，我看到“汉化”与“移植”矛盾只有痛心和无奈，我不知道为什么……  
 > ……但我仍然没有改变最初的目的我移植是为了自己玩，有他人移植皆大欢喜，没人移植自己动手 = =！  
@@ -558,7 +558,7 @@ H是否真的是不打算以移植盈利？
 所以事实上，ACGF计划执行的很缓慢，尽管按H的说法这在预期之中。
 
 A组内也逐渐有很多人对现状产生了不安和不满。
-[这个匿名帖子](http://bbs.acgcloud.com/forum.php?mod=viewthread&tid=21807)是很好的例子，里面有很多值得一看的内容。
+[这个匿名帖子](http://bbs.acgfuture.com/forum.php?mod=viewthread&tid=21807)是很好的例子，里面有很多值得一看的内容。
 其中提到H曾经在某时做过一个决定，说之后的移植不再考虑授权了。
 这是一个让我愤怒的决定，实际上我认为，当你作为组长认为授权太疲乏难办的时候，正确的做法不是不去管它，而是下放给组员自己解决。
 组长的态度应该是要求组员严格遵守规定，而不是像之前那样再让危险的看法在组中蔓延。<span class="label">这部分可*参考* H 的留言中的第10条</span>
