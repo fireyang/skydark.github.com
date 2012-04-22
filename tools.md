@@ -13,8 +13,6 @@ group: navigation
 
 * [Browser Shots](http://browsershots.org/)
 
-* [Be the bot](http://www.avivadirectory.com/bethebot/)
-
 * [Jash](javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://www.billyreisinger.com/jash/source/latest/Jash.js';})(); "js终端调试器")
 
 * [HasLayout](http://haslayout.net/css/ "IE快来战个痛")
@@ -45,6 +43,14 @@ group: navigation
 
 -----------------------
 
+## 工具
+
+* [Google short url](http://goo.gl/)
+* [Markdown Editor](http://chaous.com/markdown/)
+* [Be the bot](http://www.avivadirectory.com/bethebot/)
+
+-----------------------
+
 ## 移植
 
 ### ONScripter
@@ -52,14 +58,16 @@ group: navigation
 * [ONScripter](http://onscripter.sourceforge.jp/onscripter.html)
 * [ONScripter-Android](http://onscripter.sourceforge.jp/android/)
 * [Uncle Mion](http://unclemion.com/onscripter/)
+* [JohnHE](http://blog.163.com/john_he_/)
 * [ACGF-ONScripter](http://code.google.com/p/onscripter/)
+* [Kidgal](http://kidgal.blog.163.com/)
 
 ### References
-{: .hide}
 
-* [Ref-JP](http://nscripter.insani.org/reference/)
+* [Ref-EN](http://nscripter.insani.org/reference/)
 * [NScrAPI-JP](http://senzogawa.s90.xrea.com/reference/NScrAPI.html)
 * [NScrAPI-EN](http://unclemion.com/onscripter/api/NScrAPI.html)
+* [Kr2Doc-cn](http://code.google.com/p/kr2doc-cn/)
 
 ### Japanese Works
 {: .hide}
@@ -67,16 +75,36 @@ group: navigation
 * [Haru PSP Game](http://harupspgame.blog64.fc2.com/)
 * [Haru Files](http://briefcase.yahoo.co.jp/bc/qmbqmbqm/lst?.dir=/)
 * [Savaiv](http://savaiv.blog81.fc2.com/)
+* [七次元](http://nanajigen.mad.buttobi.net)
+* [mdash](http://ameblo.jp/mdash/theme-10007280942.html)
+* [izuno](http://izuno.blog22.fc2.com/blog-entry-168.html)
 
-### Tools
+### Sites
 {: .hide}
 
 * [TLWiki](http://tlwiki.org)
-* [Asmodean](http://asmodean.reverse.net/pages/tools_index.html)
 * [Haibara](https://haibara4cgrip.wordpress.com/)
+* [Asmodean](http://asmodean.reverse.net/pages/tools_index.html)
+* [notaエロゲ研究室](http://anime.geocities.jp/notazsite1/soft/index.html)
 * [飞雪crass版](https://www.yukict.com/bbs/forumdisplay.php?fid=69)
+* [掌家](http://www.yayabo.cn/)
+* [萌动](http://www.iacger.com)
+* [Vndb](http://vndb.org)
+* [SDL](http://www.libsdl.org/)
+* [Recrit](http://recrit.game-ss.com/)
+* [铁傲](http://user.gamez.com.tw/forum-477-1.html)
+
+### Tools
+{: .hide}
 * [AnimeED](http://wks.arai-kibou.ru/animed.php?p=compat)
 * [VNTools](http://vn.i-forge.net/tools/)
+* [Renpy](http://www.renpy.org/)
+* [Kr](http://kikyou.info/tvp/)
+* [WinKillerStudio](http://wks.arai-kibou.ru/ae.php)
+* [RLdev](http://dev.haeleth.net/rldev.shtml)
+* [RLvm](http://www.elliotglaysher.org/rlvm/contributing.html)
+* [KAS](http://studiomikan.net/kas/)
+* [Reinforce](http://hi.baidu.com/wen11panic/blog/category/reinforcezwei%20pc%BB%F2psp%B6%CBavg32%D2%FD%C7%E6)
 
 -----------------------
 
