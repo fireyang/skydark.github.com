@@ -114,6 +114,9 @@ html, body {
 	line-height: 1.4;
 	_margin-left: 20px;
 }
+#article_indent ol {
+	margin-left: 30px;
+}
 .article_published {
 	margin: 0 0 18px 10px;
 	font-size: 0.8em;
