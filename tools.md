@@ -23,6 +23,8 @@ group: navigation
 
 * [jQuery API](http://api.jquery.com/)
 
+* [W3CFuns](http://www.w3cfuns.com)
+
 ### [W3School](http://www.w3school.com.cn)
 
 * [js](http://www.w3school.com.cn/js/)
@@ -38,6 +40,7 @@ group: navigation
 
 * [Codepad](http://codepad.org)
 * [IDEOne](http://ideone.com)
+* [Online Python Tutor](http://people.csail.mit.edu/pgbovine/python/)
 
 * [Lenna](http://www.cs.cmu.edu/~chuck/lennapg/)
 
