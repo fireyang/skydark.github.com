@@ -38,19 +38,34 @@ group: navigation
 
 ## 程序
 
-* [Codepad](http://codepad.org)
-* [IDEOne](http://ideone.com)
-* [Online Python Tutor](http://people.csail.mit.edu/pgbovine/python/)
-
-* [Lenna](http://www.cs.cmu.edu/~chuck/lennapg/)
-
------------------------
-
-## 工具
+### 工具
 
 * [Google short url](http://goo.gl/)
 * [Markdown Editor](http://chaous.com/markdown/)
 * [Be the bot](http://www.avivadirectory.com/bethebot/)
+* [Unicode Converter](http://rishida.net/tools/conversion)
+* [Codepad](http://codepad.org)
+* [IDEOne](http://ideone.com)
+* [Online Python Tutor](http://people.csail.mit.edu/pgbovine/python/)
+
+### blog
+
+* [norvig](http://norvig.com)
+* [云风](http://blog.codingnow.com)
+* [云风微博](http://weibo.com/2388714105)
+* [rednaxelafx](http://rednaxelafx.javaeye.com)
+
+### 书.教程
+
+* [ProGit](http://progit.org/book/zh/)
+* [Git Community Book](http://gitbook.liuhui998.com/index.html)
+* [Kramdown Syntax](http://kramdown.rubyforge.org/syntax.html)
+* [Learn Code The Hard Way](http://learncodethehardway.org/)
+
+### 其他
+{: .hide}
+
+* [Lenna](http://www.cs.cmu.edu/~chuck/lennapg/)
 
 -----------------------
 
@@ -62,8 +77,10 @@ group: navigation
 * [ONScripter-Android](http://onscripter.sourceforge.jp/android/)
 * [Uncle Mion](http://unclemion.com/onscripter/)
 * [JohnHE](http://blog.163.com/john_he_/)
+* [JohnHE's work](http://www.rpgchina.net/read-htm-tid-26878.html)
 * [ACGF-ONScripter](http://code.google.com/p/onscripter/)
 * [Kidgal](http://kidgal.blog.163.com/)
+* [KrJava](http://www.kaede-software.com/)
 
 ### References
 
@@ -111,7 +128,10 @@ group: navigation
 
 -----------------------
 
-## 同人
+## 游戏
+
+### 同人
+{: .hide}
 
 * [KCDDP](http://kcddp.keyfc.net/bbs/)
 * [CAC](http://www.doujingame.cn/)
@@ -119,14 +139,25 @@ group: navigation
 * [online galgame](http://onlinegalgame.com/)
 * [无双](http://gamediy.net)
 
-### 团体
+### YB
 
 * [Youth Bloom](http://www.youth-bloom.cn/)
 * [YB 微博](http://weibo.com/youthbloom)
+* [YB Blog](http://blog.sina.com.cn/bloomworks)
+* [U2](http://hi.baidu.com/uu22)
+* [雪降微博](http://weibo.com/yukihuri)
+* [尸体](http://blog.sina.com.cn/u/1447214807)
+* [王少则](http://blog.sina.com.cn/u/1503415752)
+
+### 团体
+
 * [sptime](http://blog.sina.com.cn/sptime)
 * [冰璃](http://blog.sina.com.cn/u/1451957597 "刻痕")
 * [蓝天使](http://angelsblue.cn/ "刻痕")
 * [星月夜](http://www.xyygame.net/)
+* [TeamLock](http://www.teamlock.net/)
+* [GameMaster](http://www.gamemastercn.com/)
+* [Moria](http://moria-game.com/zh/main/)
 
 ### HSP
 {: .hide}
@@ -137,14 +168,18 @@ group: navigation
 * [OpenHSPNDS](http://peppermint.jp/products/hsp/)
 * [OpenHSPwiki](http://hspdev-wiki.net/?OpenHSP%2FLinux)
 
------------------------
+### 其他
+{: .hide}
 
-## 书.教程
-
-* [ProGit](http://progit.org/book/zh/)
-* [Git Community Book](http://gitbook.liuhui998.com/index.html)
-* [Kramdown Syntax](http://kramdown.rubyforge.org/syntax.html)
-* [Learn Code The Hard Way](http://learncodethehardway.org/)
+* [不沉之月](http://wfunion.net/UM-forum/index.php)
+* [仙剑技术论坛](http://www.palx.org/)
+* [星空](http://bbs.seikuu.com/index.php)
+* [欢乐百世](http://www.joyoland.com/bbs/forum.php)
+* [天下格斗同人堂](http://www.vsgame.com.cn/bbs/index.php)
+* [KFC](http://bbs.kidfanschannel.net/discuz/forum.php)
+* [KFC 微博](http://weibo.com/kidsfc)
+* [游侠实况](http://game.ali213.net/forum-255-1.html)
+* [ACGF](http://bbs.acgfuture.com/forum.php)
 
 -----------------------
 
@@ -154,12 +189,39 @@ group: navigation
 * [图书馆](http://www.lib.pku.edu.cn)
 * [Wikipedia](http://www.wikipedia.org/)
 * [万方](http://g.wanfangdata.com.cn/)
+* [中国知网](http://www.cnki.net/)
 * [SEP](http://plato.stanford.edu/)
 * [数学工具](http://zh.numberempire.com/)
 
 ### Logic
 
+* [Boss](http://www.is.pku.edu.cn/~lz/cindex.html)
 * [Pei Wang](http://www.cis.temple.edu/~wangp/)
+
+-----------------------
+
+## 其他
+
+### AC100
+
+* [炮神](http://bbs.gfan.com/android-1091641-1-1.html)
+* [Ubuntu Wiki](https://wiki.ubuntu.com/ARM/TEGRA/AC100)
+* [Wiki](http://ac100.grandou.net/)
+* [Ubuntu 10.10 on AC100](http://ac100.gudinna.com/README/)
+* [船长日志](http://www.cslog.cn/Content/toshiba-ac100-ubuntu/)
+
+### 娱乐
+
+* [Nyanit](http://nyanit.com/)
+* [猜人](http://us.akinator.com)
+* [白丝魔理沙](http://you.0w0.ca/marisa/)
+* [草泥马语](http://code.google.com/p/grass-mud-horse/)
+
+### 其他工具
+
+* [My ys168](http://skydark.ys168.com)
+* [Hoi](http://hloli.net/hoi)
+* [漫画搜索](http://hloli.appspot.com/mangasearch)
 
 -----------------------
 
