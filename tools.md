@@ -23,7 +23,11 @@ group: navigation
 
 * [jQuery API](http://api.jquery.com/)
 
+* [DartWiki](http://dart.lidian.info/)
+
 * [W3CFuns](http://www.w3cfuns.com)
+
+* [HowBrowsersWorks](http://taligarsiel.com/Projects/howbrowserswork1.htm) [中文版](http://blog.jobbole.com/12749/)
 
 ### [W3School](http://www.w3school.com.cn)
 
@@ -46,7 +50,12 @@ group: navigation
 * [Unicode Converter](http://rishida.net/tools/conversion)
 * [Codepad](http://codepad.org)
 * [IDEOne](http://ideone.com)
+* [Compilr](http://compilr.com/)
 * [Online Python Tutor](http://people.csail.mit.edu/pgbovine/python/)
+* [HowSecureIsMyPassword](http://howsecureismypassword.net/)
+* [网络发言HX器](http://fanghexie.sinaapp.com/)
+* [git.io](https://github.com/blog/985-git-io-github-url-shortener)
+* [jpg.to](http://jpg.to/)
 
 ### blog
 
@@ -61,6 +70,9 @@ group: navigation
 * [Git Community Book](http://gitbook.liuhui998.com/index.html)
 * [Kramdown Syntax](http://kramdown.rubyforge.org/syntax.html)
 * [Learn Code The Hard Way](http://learncodethehardway.org/)
+* [DiveIntoPython3](http://woodpecker.org.cn/diveintopython3/)
+* [啄木鸟](http://wiki.woodpecker.org.cn/moin/)
+* [Tkinter wiki](http://tkinter.unpythonic.net/wiki/)
 
 ### 其他
 {: .hide}
@@ -113,6 +125,7 @@ group: navigation
 * [SDL](http://www.libsdl.org/)
 * [Recrit](http://recrit.game-ss.com/)
 * [铁傲](http://user.gamez.com.tw/forum-477-1.html)
+* [Konachan](http://konachan.com/)
 
 ### Tools
 {: .hide}
@@ -137,6 +150,7 @@ group: navigation
 * [CAC](http://www.doujingame.cn/)
 * [CAC BBS](http://bbs.doujingame.cn/forum.php)
 * [online galgame](http://onlinegalgame.com/)
+* [NVL](http://nvlmaker.codeplex.com/)
 * [无双](http://gamediy.net)
 
 ### YB
@@ -180,6 +194,7 @@ group: navigation
 * [KFC 微博](http://weibo.com/kidsfc)
 * [游侠实况](http://game.ali213.net/forum-255-1.html)
 * [ACGF](http://bbs.acgfuture.com/forum.php)
+* [AyuanX](http://ayuanx.webs.com/)
 
 -----------------------
 
@@ -190,6 +205,7 @@ group: navigation
 * [Wikipedia](http://www.wikipedia.org/)
 * [万方](http://g.wanfangdata.com.cn/)
 * [中国知网](http://www.cnki.net/)
+* [国家图书馆](http://www.nlc.gov.cn/)
 * [SEP](http://plato.stanford.edu/)
 * [数学工具](http://zh.numberempire.com/)
 
