@@ -29,6 +29,8 @@ group: navigation
 
 * [HowBrowsersWorks](http://taligarsiel.com/Projects/howbrowserswork1.htm) [中文版](http://blog.jobbole.com/12749/)
 
+* [LavishBootstrap](http://www.lavishbootstrap.com/)
+
 ### [W3School](http://www.w3school.com.cn)
 
 * [js](http://www.w3school.com.cn/js/)
@@ -71,8 +73,11 @@ group: navigation
 * [Kramdown Syntax](http://kramdown.rubyforge.org/syntax.html)
 * [Learn Code The Hard Way](http://learncodethehardway.org/)
 * [DiveIntoPython3](http://woodpecker.org.cn/diveintopython3/)
+* [Python3Porting](http://python3porting.com/bookindex.html)
 * [啄木鸟](http://wiki.woodpecker.org.cn/moin/)
 * [Tkinter wiki](http://tkinter.unpythonic.net/wiki/)
+* [图灵社区](http://www.ituring.com.cn/)
+* [GotGitHub](http://www.worldhello.net/gotgithub/)
 
 ### 其他
 {: .hide}
@@ -208,6 +213,7 @@ group: navigation
 * [国家图书馆](http://www.nlc.gov.cn/)
 * [SEP](http://plato.stanford.edu/)
 * [数学工具](http://zh.numberempire.com/)
+* [CallForPaper](http://www.wikicfp.com/cfp/)
 
 ### Logic
 
@@ -217,6 +223,13 @@ group: navigation
 -----------------------
 
 ## 其他
+
+### ACG
+
+* [NanohaWiki](http://wiki.nanohas.com/)
+* [在线动漫地址](http://www.ls-zone.cn/SupportUrl.html)
+* [Hoi](http://hloli.net/hoi)
+* [漫画搜索](http://hloli.appspot.com/mangasearch)
 
 ### AC100
 
@@ -235,9 +248,8 @@ group: navigation
 
 ### 其他工具
 
+* [RainyMood](http://www.rainymood.com/)
 * [My ys168](http://skydark.ys168.com)
-* [Hoi](http://hloli.net/hoi)
-* [漫画搜索](http://hloli.appspot.com/mangasearch)
 
 -----------------------
 
