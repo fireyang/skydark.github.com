@@ -58,6 +58,7 @@ group: navigation
 * [网络发言HX器](http://fanghexie.sinaapp.com/)
 * [git.io](https://github.com/blog/985-git-io-github-url-shortener)
 * [jpg.to](http://jpg.to/)
+* [Burn Note](https://burnnote.com)
 
 ### blog
 
@@ -230,6 +231,7 @@ group: navigation
 * [在线动漫地址](http://www.ls-zone.cn/SupportUrl.html)
 * [Hoi](http://hloli.net/hoi)
 * [漫画搜索](http://hloli.appspot.com/mangasearch)
+* [酷酷鸟](http://kukubird.sinaapp.com/)
 
 ### AC100
 
@@ -250,6 +252,7 @@ group: navigation
 
 * [RainyMood](http://www.rainymood.com/)
 * [My ys168](http://skydark.ys168.com)
+* [Win32](http://www.michaelv.org/)
 
 -----------------------
 
