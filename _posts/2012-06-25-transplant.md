@@ -3,7 +3,7 @@ layout: post
 title: "我的移植汇总贴"
 category: transplant
 excerpt: 备份用意
-tags: [ons 3days type-moon]
+tags: [ons, 3days, type-moon]
 ---
 {% include JB/setup %}
 

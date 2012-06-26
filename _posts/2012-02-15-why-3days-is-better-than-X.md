@@ -3,7 +3,7 @@ layout: post
 title: 为什么我在Galgame吧推荐3days
 category: ACG
 excerpt: 因为我对它爱的深沉(雾)
-tags: [acg, 3days]
+tags: [acg, 3days, lass]
 ---
 {% include JB/setup %}
 
