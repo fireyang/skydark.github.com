@@ -2,7 +2,7 @@
 layout: post
 title: "赤印"
 category: ACG
-excerpt: 最近的话题作，等待收货后更新。
+excerpt: 最近的国产GAL话题作
 tags: [acg, 贵圈真乱]
 ---
 {% include JB/setup %}
