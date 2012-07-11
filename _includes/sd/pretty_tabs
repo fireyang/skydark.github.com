@@ -5,6 +5,10 @@ if (!($.browser.msie && ($.browser.version == "6.0"))) {
 	$(".tab-content>div.tab-pane>h2").remove();
 	$(".tab-content>div.tab-pane>ul").addClass("nav nav-list");
 	$("#tabs a:first").tab('show');
+	var href = '/'+decodeURIComponent(window.location.href).split('/').slice(-1);
+	$(document).ready(function(){
+		$("#tabs a[href='"+href+"']").click();
+	});
 }
 </script>
 
