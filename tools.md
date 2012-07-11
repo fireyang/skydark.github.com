@@ -158,6 +158,7 @@ group: navigation
 * [online galgame](http://onlinegalgame.com/)
 * [NVL](http://nvlmaker.codeplex.com/)
 * [无双](http://gamediy.net)
+* [gaooo](http://www.gaooo.net/)
 
 ### YB
 
