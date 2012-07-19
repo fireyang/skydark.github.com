@@ -46,19 +46,12 @@ group: navigation
 
 ### 工具
 
-* [Google short url](http://goo.gl/)
 * [Markdown Editor](http://chaous.com/markdown/)
-* [Be the bot](http://www.avivadirectory.com/bethebot/)
 * [Unicode Converter](http://rishida.net/tools/conversion)
 * [Codepad](http://codepad.org)
 * [IDEOne](http://ideone.com)
 * [Compilr](http://compilr.com/)
 * [Online Python Tutor](http://people.csail.mit.edu/pgbovine/python/)
-* [HowSecureIsMyPassword](http://howsecureismypassword.net/)
-* [网络发言HX器](http://fanghexie.sinaapp.com/)
-* [git.io](https://github.com/blog/985-git-io-github-url-shortener)
-* [jpg.to](http://jpg.to/)
-* [Burn Note](https://burnnote.com)
 
 ### blog
 
@@ -79,11 +72,19 @@ group: navigation
 * [Tkinter wiki](http://tkinter.unpythonic.net/wiki/)
 * [图灵社区](http://www.ituring.com.cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/)
+* [JS库解构](http://www.cn-cuckoo.com/deconstructed/)
+* [Esolang](http://esolangs.org/wiki/Main_Page)
 
-### 其他
+### newLISP
 {: .hide}
 
-* [Lenna](http://www.cs.cmu.edu/~chuck/lennapg/)
+* [Documention](http://www.newlisp.org/index.cgi?Documentation)
+* [Forum](http://newlispfanclub.alh.net/forum/)
+* [CodePattern](http://www.newlisp.org/CodePatterns-cn.html)
+* [Introduction to newLISP](http://en.wikibooks.org/wiki/Introduction_to_newLISP)
+* [MemoryManagement](http://www.newlisp.org/MemoryManagement.html)
+* [DragonFly](http://www.rundragonfly.com/)
+* [Winger(黄登)](http://my.opera.com/freewinger/blog/)
 
 -----------------------
 
@@ -251,9 +252,17 @@ group: navigation
 
 ### 其他工具
 
+* [Be the bot](http://www.avivadirectory.com/bethebot/)
+* [HowSecureIsMyPassword](http://howsecureismypassword.net/)
+* [网络发言HX器](http://fanghexie.sinaapp.com/)
+* [Google short url](http://goo.gl/)
+* [git.io](https://github.com/blog/985-git-io-github-url-shortener)
+* [jpg.to](http://jpg.to/)
+* [Burn Note](https://burnnote.com)
 * [RainyMood](http://www.rainymood.com/)
 * [My ys168](http://skydark.ys168.com)
 * [Win32](http://www.michaelv.org/)
+* [Lenna](http://www.cs.cmu.edu/~chuck/lennapg/)
 
 -----------------------
 
