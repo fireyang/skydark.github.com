@@ -52,6 +52,7 @@ group: navigation
 * [IDEOne](http://ideone.com)
 * [Compilr](http://compilr.com/)
 * [Online Python Tutor](http://people.csail.mit.edu/pgbovine/python/)
+* [Online VIM](http://myv.im)
 
 ### blog
 
@@ -73,11 +74,13 @@ group: navigation
 * [图灵社区](http://www.ituring.com.cn/)
 * [GotGitHub](http://www.worldhello.net/gotgithub/)
 * [JS库解构](http://www.cn-cuckoo.com/deconstructed/)
+* [Haskell Tutorial](http://www.haskell.org/tutorial/)
 * [Esolang](http://esolangs.org/wiki/Main_Page)
 
-### newLISP
+### Lisp
 {: .hide}
 
+* [Lisp 中文维基](http://lisp.org.cn/wiki/)
 * [Documention](http://www.newlisp.org/index.cgi?Documentation)
 * [Forum](http://newlispfanclub.alh.net/forum/)
 * [CodePattern](http://www.newlisp.org/CodePatterns-cn.html)
@@ -252,6 +255,7 @@ group: navigation
 
 ### 其他工具
 
+* [Arch Rollback Machine](http://arm.konnichi.com/)
 * [Be the bot](http://www.avivadirectory.com/bethebot/)
 * [HowSecureIsMyPassword](http://howsecureismypassword.net/)
 * [网络发言HX器](http://fanghexie.sinaapp.com/)
